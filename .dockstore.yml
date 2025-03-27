@@ -2,4 +2,4 @@ version: 1.2
 workflows:
  - name: BaseSpace_Reads_Name_Fetcher
    subclass: WDL
-   primaryDescriptorPath: /bs_reads_name_fetcher.wdl
+   primaryDescriptorPath: /basespace_reads_name_fetcher.wdl
